@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DOKI</string>
+    <string name="daftar">Daftar Cerita</string>
+    <string name="lokal">Cerita Indonesia</string>
+    <string name="manca">Cerita Mancanegara</string>
+    <string name="rakyat">Cerita Rakyat</string>
+</resources>
